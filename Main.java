@@ -5,7 +5,7 @@ public class Main{
     String name = new java.util.Scanner(System.in).nextLine();
     System.out.println("年齢を入力してください。");
     String ageString = new java.util.Scanner(System.in).nextLine();
-    int age = ageString
+    int age = age String
     
     System.out.println(age);
   }
